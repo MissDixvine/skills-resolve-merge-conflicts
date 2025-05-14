@@ -1,3 +1,3 @@
-# references
+# References
 
-* octodad 2
+* octocat 2 😈
